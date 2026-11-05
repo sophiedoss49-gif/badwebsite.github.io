@@ -1,0 +1,4 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+www.sync.nexus	TRUE	/	FALSE	1999999999	PHPSESSID	bdf4f285b0f9f8bd217d3d0d64f61c99
+

@@ -1,0 +1,15 @@
+HTTrack3.49-5 launched on Thu, 05 Nov 2026 20:57:51 at https://www.sync.nexus/app.html
+(winhttrack https://www.sync.nexus/app.html -O "/home/jade/websites/Nexus" -%v )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+20:59:07	Error: 	"Forbidden" (403) at link https://www.sync.nexus/connectedcenternew/api/ (from https://www.sync.nexus/submenus/settings.html)
+20:59:07	Error: 	"Not Found" (404) at link https://www.sync.nexus/moderngame/projects/among-us/index.jpg (from https://www.sync.nexus/moderngame/index.html)
+20:59:07	Error: 	"Not Found" (404) at link https://www.sync.nexus/moderngame/projects/fall-guys/index.jpg (from https://www.sync.nexus/moderngame/index.html)
+20:59:07	Error: 	"Not Found" (404) at link https://www.sync.nexus/moderngame/projects/agar-io/index.jpg (from https://www.sync.nexus/moderngame/index.html)
+
+HTTrack Website Copier/3.49-5 mirror complete in 1 minutes 16 seconds : 76 links scanned, 71 files written (21315205 bytes overall) [20534609 bytes received at 270192 bytes/sec], 21281796 bytes transferred using HTTP compression in 60 files, ratio 96%, 12.8 requests per connection
+(4 errors, 0 warnings, 0 messages)

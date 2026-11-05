@@ -1,0 +1,8 @@
+https://www.sync.nexus/app.html -O "/home/jade/websites/Nexus" -%v
+File generated automatically on Thu, 05 Nov 2026 20:57:51, do NOT edit
+
+To update a mirror, just launch httrack without any parameters
+The existing cache will be used (and modified)
+To have other options, retype all parameters and launch HTTrack
+To continue an interrupted mirror, just launch httrack without any parameters
+
